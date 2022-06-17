@@ -1,2 +1,2 @@
-# Practice-pro
+# Practice
 class project
